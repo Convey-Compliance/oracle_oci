@@ -1,0 +1,1 @@
+Project for ORACLE OCI libraries
